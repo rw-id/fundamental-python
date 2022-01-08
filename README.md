@@ -1,2 +1,2 @@
 # fundamental-python
-Learn the basics of the Python programming language.
+Part of RWID courses on python for remote work.
